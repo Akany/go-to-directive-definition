@@ -1,0 +1,1 @@
+module.directive('some', someDirective);
